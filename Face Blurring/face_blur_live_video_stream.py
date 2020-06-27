@@ -2,8 +2,7 @@ import numpy as np
 import cv2
 import dlib
 
-#video_capture = cv2.VideoCapture(0)
-video_capture = cv2.VideoCapture('C:/Users/hss24/Desktop/testing_video.mp4')
+video_capture = cv2.VideoCapture(0)
 detector = dlib.get_frontal_face_detector()
 
 blurred = False
