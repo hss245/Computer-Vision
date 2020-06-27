@@ -2,3 +2,4 @@ Kindly install below libraries to run the code
 
 1. opencv - python
 2. numpy
+3. dlib
